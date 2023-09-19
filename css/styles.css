@@ -11,23 +11,6 @@
     /* padding-top: 100px; */
     text-align: center;
 }
-.card img{
-    width: 40px;
-    border-style:double;
-}
-.card{
-    text-align: left;
-    margin-top: 100px;
-}
-h1{
-    padding-top: 50px;
-}
-h2{
-    font-size: 20px;
-}
-.card p{
-    font-style: oblique;
-}
 nav{
     display: flex;
     padding: 2% 6%;
@@ -72,4 +55,22 @@ border-radius: 50px;
 .nav-links ul li:hover::after{
     width: 100%;
 }
+
+/* .card img{
+    width: 40px;
+    border-style:double;
+}
+.card{
+    text-align: left;
+    margin-top: 100px;
+}
+h1{
+    padding-top: 50px;
+}
+h2{
+    font-size: 20px;
+}
+.card p{
+    font-style: oblique;
+} */
 
