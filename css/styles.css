@@ -63,11 +63,11 @@ border-radius: 50px;
 .card{
     text-align: left;
     margin-top: 100px;
-}
+} */
 h1{
-    padding-top: 50px;
+    padding-top: 170px;
 }
-h2{
+/* h2{
     font-size: 20px;
 }
 .card p{
@@ -81,6 +81,7 @@ h2{
 .features h1{
     padding-bottom:30px;
     text-align: center;
+    padding-top: 5px;
 }
 .features-img img{
     width: 100%;
