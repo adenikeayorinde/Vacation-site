@@ -3,12 +3,12 @@
     padding: 0;
 }
 .header{
-    height: 100.90vh;
+    height: 150vh;
     background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('/img/image3.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    padding-top: 80px;
+    padding-top: 200px;
     text-align: center;
 }
 img{
@@ -17,7 +17,7 @@ img{
 }
 .card{
     text-align: left;
-    margin: 50px;
+    margin-top: 100px;
 }
 h2{
     font-size: 20px;
@@ -25,6 +25,4 @@ h2{
 .card p{
     font-style: oblique;
 }
-/* .header img{
-    text-align: left;
-    float: left; */
+
