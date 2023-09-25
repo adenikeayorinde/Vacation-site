@@ -4,7 +4,7 @@
 * _HTML_
 * _CSS_
 ### Description ###
-###### _Welcome to our Tropical paradise, Our website is a one-stop destination for their dream vacations. Discover stunning destinations, exciting activities, and helpful travel tips to plan your perfect getaway._######
+###### _Welcome to our Tropical paradise, Our website is a one-stop destination for their dream vacations. Discover stunning destinations, exciting activities, and helpful travel tips to plan your perfect getaway._ ######
 ### Contributions ### 
 ###### _We encourage contributions from fellow travel enthusiasts! If you have valuable insights, recommendations, or personal experiences to share, please feel free to submit a pull request. Together, let's create a vibrant community 0f travelers helping each other explore the world_ ######
 ### Support ### 
